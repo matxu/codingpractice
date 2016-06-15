@@ -1,5 +1,5 @@
 # Problem 1.1
-
+# Written by Hossein Siadati
 def has_all_unique(instr):
 	exists = [False]*256  #[False for i in range(256)]
 	for i in range(len(instr)):
