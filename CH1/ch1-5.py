@@ -32,9 +32,11 @@ def test2():
 	d = replace_space(t)
 	print t, d
 	print "h"
+
 def test1():
 	tcase = ["ab cdef", "abc", "  ", " a"]
 	for t in tcase:
 		print t, replace_space(t)
+
 if __name__ == "__main__":
 	test1()
