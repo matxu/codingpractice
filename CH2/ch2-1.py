@@ -1,3 +1,4 @@
+# programmed by Hossein Siadati
 class LinkedList:
 
 	def __init__(self):
